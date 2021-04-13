@@ -1,0 +1,32 @@
+
+
+*{
+    font-family: Xolonium;
+    color: rgb(96, 5, 20);
+    background-color: salmon;
+}
+
+
+
+#respuesta{
+    border-radius: 100%;
+    background-color: darkgrey;
+    text-align: center;
+   
+    
+    
+    
+}
+
+#busca{
+   
+    padding-top: 10px;
+    text-align: center;
+    background-color:cyan;
+    
+}
+#titulo{
+    background-color:blueviolet;   
+    text-decoration: solid;
+    
+}
